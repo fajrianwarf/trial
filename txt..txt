@@ -1,5 +1,7 @@
 trial git merge
 trial 2
 triallll
-second triallll - third triall
+second triallll - third triall - modified this line
+i do want to add something between this line
 dont know why ?? yeah, neither do i
+am i new here ??
