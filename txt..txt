@@ -1,5 +1,7 @@
-trial git merge
 trial 2
-triallll
+updated
+triallll - this is modified
 second triallll - third triall
 dont know why ?? yeah, neither do i
+new add 1
+new add 2
